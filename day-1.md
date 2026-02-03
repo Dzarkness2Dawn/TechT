@@ -2,6 +2,5 @@
 
 # Morning Planning
 
-
 ## Review
 
